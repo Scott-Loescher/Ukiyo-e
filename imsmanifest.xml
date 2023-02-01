@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6ISfyPDyRPN" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Ukiyo-e</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">An e-learning module about the Japanese art of woodblock print making.</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Ukiyo-e_ORG">
+    <organization identifier="Ukiyo-e_ORG">
+      <title>Ukiyo-e</title>
+      <item identifier="Ukiyo-e_SCO" isvisible="true" identifierref="__6ISfyPDyRPN_RES">
+        <title>Ukiyo-e</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6ISfyPDyRPN_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6bK0jZGUmac.jpg" />
+      <file href="story_content/6dZcZzKYRul.js" />
+      <file href="mobile/5bfQBPpytQO_M_1038_1038.png" />
+      <file href="mobile/5c2Xd62wBdq.png" />
+      <file href="mobile/5XZUE2k3Tsx.png" />
+      <file href="mobile/6PVdklQMGC2.jpg" />
+      <file href="mobile/6CA790RRWLq.jpg" />
+      <file href="mobile/5lZHpg4HDhi.jpg" />
+      <file href="mobile/5a0pz7mlnVn.jpg" />
+      <file href="mobile/62I5sruDalS.jpg" />
+      <file href="mobile/5hJMi4xdHsZ.jpg" />
+      <file href="mobile/6Uw2UZKuLRD.jpg" />
+      <file href="mobile/5xGUEWb8Dlb.jpg" />
+      <file href="mobile/6nn9mMywPRW.jpg" />
+      <file href="mobile/6essfuiUZI4.jpg" />
+      <file href="mobile/5YfGMDDxKb0.jpg" />
+      <file href="mobile/66tcwJh5iKG_P_20_49_687_380.jpg" />
+      <file href="mobile/5iealZF97Zk_P_-2_23_869_480.png" />
+      <file href="mobile/5kq4WMn4gIH.png" />
+      <file href="mobile/61ZtUDhFclc_P_276_0_1771_980.jpg" />
+      <file href="mobile/6ALkUqiUec9.jpg" />
+      <file href="mobile/5X6n5xlWjxS_P_33_262_1994_1103.jpg" />
+      <file href="mobile/6SAksyg0lrd.jpg" />
+      <file href="mobile/6I51HdrxwQB.jpg" />
+      <file href="mobile/6knBDf2q25c.jpg" />
+      <file href="mobile/66D7ob5Uh4V.jpg" />
+      <file href="mobile/6E5yQuoyJq7.jpg" />
+      <file href="mobile/5j5Nl4T4N5s.jpg" />
+      <file href="mobile/600sW5B0hTl.jpg" />
+      <file href="mobile/5uWtlApsbYO.jpg" />
+      <file href="mobile/6Ywir27gQqF.jpg" />
+      <file href="mobile/5n2EvXiSQkN.jpg" />
+      <file href="mobile/5rZ8qokGxjH_P_35_48_1338_1972.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5s6Aj78ixge.png" />
+      <file href="mobile/Shape5mdYPdn3Pz7.png" />
+      <file href="mobile/Shape5pSKQMAKzJr.png" />
+      <file href="mobile/Shape6XCpe9qPfjg.png" />
+      <file href="mobile/Shape61O3XZ1MS8f.png" />
+      <file href="mobile/Shape5UzlunJtLse.png" />
+      <file href="mobile/Shape5d1edcNFiCY.png" />
+      <file href="mobile/Shape5acN5HWfwHe.png" />
+      <file href="mobile/Shape5szybm9Mq9f.png" />
+      <file href="mobile/Shape5cANpCx1lxe.png" />
+      <file href="mobile/Shape6kBVsG5aOWv.png" />
+      <file href="mobile/Shape5tUODJqjBrA.png" />
+      <file href="mobile/Shape5YeIp4PDIE2.png" />
+      <file href="mobile/Shape60KFOBGDJAR.png" />
+      <file href="mobile/Shape5jCAMZDe4rW.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5ftTw5ovGGd.js" />
+      <file href="html5/data/js/5hggyLcuCIh.js" />
+      <file href="html5/data/js/5V03mYU8mhs.js" />
+      <file href="html5/data/js/6671PaNoTqa.js" />
+      <file href="html5/data/js/67wLjoLzAos.js" />
+      <file href="html5/data/js/6HpckzxTXkr.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
